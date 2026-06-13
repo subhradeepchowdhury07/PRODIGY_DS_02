@@ -1,22 +1,25 @@
-# PRODIGY_DS_01
-# Population Visualization Project
+# PRODIGY_DS_02
+# Titanic Dataset - Data Cleaning and EDA
 
-This project visualizes population distribution using a bar chart.
-
-## Dataset
-World Bank Population Dataset
+## Objective
+Perform Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset.
 
 ## Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
+- Seaborn
 
-## Output
-Bar chart showing the top 10 populated regions/countries in 2022.
+## Tasks Performed
+- Data Cleaning
+- Handling Missing Values
+- Statistical Analysis
+- Visualization
+- Correlation Analysis
 
-## Files
-- age_gender_distribution.py
-- 01_population_pyramid.png
-- 02_gender_by_region
-- 04_age_gender_overlay
-- API_SP.POP.TOTL_DS2_en_excel_v2_250151 (1).csv
+## Key Findings
+- Females had higher survival rates.
+- First-class passengers survived more often.
+- Higher fares correlated with higher survival probability.
+- Most passengers were between 20 and 40 years old.
