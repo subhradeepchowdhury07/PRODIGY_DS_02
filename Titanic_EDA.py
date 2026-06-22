@@ -1,5 +1,5 @@
 # ============================================
-# CODSOFT TASK-02
+# PRODIGY TASK-02
 # Data Cleaning & Exploratory Data Analysis
 # ============================================
 
